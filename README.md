@@ -1,5 +1,5 @@
 # Resume Generator
-
+by manish kumar
 ## Overview
 
 Resume Generator is a web application that helps users create professional IT job resumes. The application consists of a frontend built with React and Vite, and a backend powered by Spring Boot and AI services.
